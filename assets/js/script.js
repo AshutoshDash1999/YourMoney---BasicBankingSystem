@@ -15,14 +15,11 @@ function sendMoney(){
       alert(`$${enterAmount} is sent to recepient with Email-id ${enterName}@email.com.`)
 
       // transaction history 
-      var createPTag = document.createElement("p");
+      var createPTag = document.createElement("li");
       var textNode = document.createTextNode(`$${enterAmount} is sent to recepient with Email-id ${enterName}@email.com on ${Date()}.`);
       createPTag.appendChild(textNode);
       var element = document.getElementById("transaction-history-body");
       element.insertBefore(createPTag, element.firstChild);
    }
-   
-   
 }
-
 
