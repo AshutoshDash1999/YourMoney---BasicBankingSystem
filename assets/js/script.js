@@ -1,3 +1,5 @@
+"use strict;"
+
 let myAccountBalance = parseInt(document.getElementById("myAccountBalance").innerText);
 
 function sendMoney(){
