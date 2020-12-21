@@ -4,7 +4,7 @@ A very basic banking system for transfering virtual money.
 # Tech Stack
 HTML, CSS, Bootstrap and Javascript
 
-# If you are here, please give this repo a STAR and follow me on GitHub.
+# I don't allow copying the source code without letting me know.
 
 # Screencast
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UoaEMtRedGU/0.jpg)](https://youtu.be/UoaEMtRedGU)
